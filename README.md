@@ -23,3 +23,7 @@ This project demonstrates two approaches for modelling Primavera P6 WBS hierarch
 
 - PBIX report
 - Screenshots
+
+## Dataset
+
+The report uses the Primavera P6 prototype/sample project (Melrose Plant Expansion Project) and is intended to demonstrate techniques for modelling WBS hierarchies in Power BI.
